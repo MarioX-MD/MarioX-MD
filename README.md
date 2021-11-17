@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ➡️ Project 🦉Sufux🐧 (Linux Distribution) [0/100 %]<br>
 <p align="left">➡️ Work at <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="60" height="30"/></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioX-MD&layout=compact" alt="MarioX-MD"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioX-MD&layout=compact" alt="MarioX-MD"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=MarioX-MD&show_icons=true" alt="MarioX-MD"/></p>
