@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">Nice to meet you on my main repo 😀</h3>
 
 <h2 align="left">My bio:</h2>
---> 🧑‍💻 Age: 26
+--> 🧑‍💻 Age: 26<br>
 --> 🇵🇱 Country: Poland
 --> 🌐 Website: www.drzewoski.eu
 --> 🗣 Languages: 🇵🇱 Polish, 🇺🇸 English, 🇷🇺 Russian
