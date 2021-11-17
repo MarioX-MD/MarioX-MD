@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 <h2 align="left">My goals:</h2>
 ➡️ Stars ⭐ [1/10/100/1000/10000]<br>
-➡️ Project 🦉Sufux🐧 (Linux Distribution)<br> [0/100 %]
+➡️ Project 🦉Sufux🐧 (Linux Distribution) [0/100 %]<br>
 ➡️ Work at Google <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="google" width="40" height="40"/>
