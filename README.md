@@ -10,12 +10,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...https://img.shields.io/github/followers/MarioX-MD?label=follow%20MarioX-MD&logo=Github&style=social
 -->
 
 <h1 align="center">Hi 👋, my name is Mariusz</h1>
 <h3 align="center">Nice to meet you on my main repo 😀</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=MarioX-MD&color=blue" alt="MarioX-MD"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MarioX-MD&color=blue" alt="MarioX-MD"/> <a href="https://discord.gg/jBjauKWSP4"><img src="https://img.shields.io/discord/698219596754321448?label=www.drzewoski.eu&logo=Discord" alt="Join Community Badge"/></a> <a href="https://github.com/MarioX-MD"><img src="https://img.shields.io/github/followers/MarioX-MD?label=follow%20MarioX-MD&logo=Github&style=social"/></a> <a href="https://twitter.com/MDrzewoski"><img src="https://img.shields.io/twitter/follow/MDrzewoski?style=social"/></a> <a href="https://www.youtube.com/channel/UC9IoEjQmpD7z4lGKLSwALKQ"><img src="https://img.shields.io/youtube/channel/subscribers/UC9IoEjQmpD7z4lGKLSwALKQ?style=social"/></a></p>
+
 <h2 align="left">My bio:</h2>
 --> 🧑‍💻 Age: 26<br>
 --> 🇵🇱 Country: Poland<br>
