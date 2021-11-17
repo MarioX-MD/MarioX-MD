@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, my name is Mariusz</h1>
 <h3 align="center">Nice to meet you on my main repo 😀</h3>
-
+<p align="left"><img src="https://komarev.com/ghpvc/?username=MarioX-MD&color=blue" alt="MarioX-MD"/></p>
 <h2 align="left">My bio:</h2>
 --> 🧑‍💻 Age: 26<br>
 --> 🇵🇱 Country: Poland<br>
@@ -33,4 +33,6 @@ Here are some ideas to get you started:
 <h2 align="left">My goals:</h2>
 ➡️ Stars ⭐ [1/10/100/1000/10000]<br>
 ➡️ Project 🦉Sufux🐧 (Linux Distribution) [0/100 %]<br>
-<p align="left">➡️ Work at <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="60" height="30"/></p><br>
+<p align="left">➡️ Work at <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google" width="60" height="30"/></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioX-MD&layout=compact" alt="MarioX-MD"/></p>
