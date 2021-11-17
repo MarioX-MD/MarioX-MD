@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">My bio:</h2>
 --> 🧑‍💻 Age: 26<br>
---> 🇵🇱 Country: Poland
---> 🌐 Website: www.drzewoski.eu
---> 🗣 Languages: 🇵🇱 Polish, 🇺🇸 English, 🇷🇺 Russian
+--> 🇵🇱 Country: Poland<br>
+--> 🌐 Website: www.drzewoski.eu<br>
+--> 🗣 Languages: 🇵🇱 Polish, 🇺🇸 English, 🇷🇺 Russian<br><br>
