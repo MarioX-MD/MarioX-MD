@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, my name is Mariusz</h1>
+<h3 align="center">Nice to meet you on my main repo 😀</h3>
