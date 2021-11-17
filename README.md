@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 --> 🇵🇱 Country: Poland<br>
 --> 🌐 Website: www.drzewoski.eu<br>
 --> 🗣 Languages: 🇵🇱 Polish, 🇺🇸 English, 🇷🇺 Russian<br><br>
+
+<h2 align="left">Languages and tools:</h2>
+<p align="left"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/><img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="js" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="office365" width="40" height="40"/><img src="https://www.svgrepo.com/show/52775/windows.svg" alt="windows" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></p>
