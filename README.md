@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 <h2 align="left">Connect with me:</h2>
-<p align="left"><a href="https://www.facebook.com/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/>
+<p align="left"><a href="https://www.facebook.com/mariox95/"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="facebook" width="40" height="40"/></a><a href="https://www.instagram.com/mariogeekit/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="instagram" width="40" height="40"/></a><a href="https://twitter.com/MDrzewoski"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="twitter" width="40" height="40"/></a><a href="https://www.linkedin.com/in/mdrzewoski/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="40" height="40"/></a><a href="https://www.youtube.com/channel/UC9IoEjQmpD7z4lGKLSwALKQ"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="youtube" width="40" height="40"/></a></p><br><br>
