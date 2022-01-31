@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"><img src="https://komarev.com/ghpvc/?username=MarioX-MD&color=blue" alt="MarioX-MD"/> <a href="https://discord.gg/jBjauKWSP4"><img src="https://img.shields.io/discord/698219596754321448?label=www.drzewoski.eu&logo=Discord" alt="Join Community Badge"/></a> <a href="https://github.com/MarioX-MD"><img src="https://img.shields.io/github/followers/MarioX-MD?label=follow%20MarioX-MD&logo=Github&style=social"/></a> <a href="https://twitter.com/MDrzewoski"><img src="https://img.shields.io/twitter/follow/MDrzewoski?style=social"/></a> <a href="https://www.youtube.com/channel/UC9IoEjQmpD7z4lGKLSwALKQ"><img src="https://img.shields.io/youtube/channel/subscribers/UC9IoEjQmpD7z4lGKLSwALKQ?style=social"/></a></p>
 
 <h2 align="left">My bio:</h2>
---> 🧑‍💻 Age: 26<br>
+--> 🧑‍💻 Age: 27<br>
 --> 🇵🇱 Country: Poland<br>
 --> 🌐 Website: www.drzewoski.eu<br>
 --> 🗣 Languages: 🇵🇱 Polish, 🇺🇸 English, 🇷🇺 Russian<br><br>
